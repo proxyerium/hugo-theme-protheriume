@@ -1,0 +1,19 @@
+name = 'hugo-theme-protheriume'
+license = 'Apache-2.0'
+licenselink = 'https://github.com/proxyerium/hugo-theme-protheriume/blob/master/LICENSE'
+description = "hugo theme for myself"
+
+# The home page of the theme, where the source can be found
+homepage = 'https://github.com/proxyerium/hugo-theme-protheriume'
+
+# If you have a running demo of the theme
+demosite = 'https://proxyerium.github.io/'
+
+# Taxonomy terms
+tags = ['blog', 'personal']
+features = ['ugly']
+
+# If the theme has a single author
+[author]
+name = 'proxyerium'
+homepage = 'proxyerium.github.io'
